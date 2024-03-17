@@ -12,6 +12,7 @@ This is a simple currency converter web application built using ReactJS. It util
 ## Technologies Used
 
 - ReactJS
+- Tailwind CSS
 - useState Hook
 - useEffect Hook
 - useCallback Hook
@@ -25,12 +26,12 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm start`.
-5. Open your web browser and go to `http://localhost:3000` to view the application.
+5. Open your web browser and go to `http://localhost:5173` to view the application.
 
 ## Usage
 
 - Select the currency you want to convert from in the first dropdown.
-- Enter the amount in the input field.
+- Enter the amount in the first input field.
 - Select the currency you want to convert to in the second dropdown.
 - The converted amount will be displayed automatically.
 
@@ -46,6 +47,7 @@ This project is unlicensed and is released into the public domain. You are free 
 
 - The project uses the ([API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json)) for fetching exchange rates.
 - This project was inspired by ([Hitesh Chaudhary](https://github.com/hiteshchoudhary/)).
+- Tailwind CSS for styling the user interface.
 
 ## Contributing
 
