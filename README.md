@@ -1,6 +1,6 @@
 # Currency Converter
 
-This is a simple currency converter web application built using ReactJS. It utilizes an API to fetch currency exchange rates and allows users to convert between different currencies.
+A currency converter web app built with ReactJS, using hooks like useState, useEffect, and useCallback for efficient state management. Fetches real-time exchange rates via API, ensuring accuracy. Features a responsive design and clean, modular codebase. Ideal for personal finance management or integration into web projects.
 
 ## Features
 
