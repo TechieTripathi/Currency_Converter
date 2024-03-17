@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#root{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
